@@ -1,0 +1,14 @@
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\bin\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.exe
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\bin\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.deps.json
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\bin\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.runtimeconfig.json
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\bin\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.dll
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\bin\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.pdb
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\obj\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\obj\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.AssemblyInfoInputs.cache
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\obj\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.AssemblyInfo.cs
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\obj\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.csproj.CoreCompileInputs.cache
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\obj\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.dll
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\obj\Debug\net8.0\refint\SistemaDeLigaProfesionalDeFutbol.dll
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\obj\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.pdb
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\obj\Debug\net8.0\SistemaDeLigaProfesionalDeFutbol.genruntimeconfig.cache
+C:\P\C#\Tecnologo\SistemaDeLigaProfesionalDeFutbol\obj\Debug\net8.0\ref\SistemaDeLigaProfesionalDeFutbol.dll
